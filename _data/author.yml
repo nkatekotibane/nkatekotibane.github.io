@@ -1,0 +1,22 @@
+name: Nkateko Tibane
+dp: "../assets/images/my-profile.jpeg"
+description: "
+  <p>
+    I'm a offensive security enthusiast deep into the art of breaking things to understand how they work.
+    Aspiring vulnerability researcher. 
+  </p>
+  <br/>
+  <p>
+   Interests: Exploit Development, Reverse Engineering, Malware Development and Red Teaming
+  </P>
+"
+email: dev_sharad@outlook.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/nkateko-tibane-3a5655308
+  - title: github
+    url: https://github.com/nkatekotibane
+  - title: twitter
+    url: https://twitter.com/tibane101
+  - title: email
+    url: mailto:nkatekotibane101@gmail.com
