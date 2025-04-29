@@ -38,7 +38,7 @@ Partial RELRO   No canary found   NX enabled    No PIE          No RPATH   No RU
 
 ## Reversing
 
-![Image1](../..//assets/posts_files/split1.png)
+![Image1](../../assets/posts_files/split1.png)
 
 
 ![Image2](../../assets/posts_files/split2.png)
