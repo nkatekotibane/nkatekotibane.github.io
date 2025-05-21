@@ -6,6 +6,9 @@ categories: [misc]
 ---
 # Offensive Security Playground
 
+
+![theat-actor](../../assets/images/attacker.jpeg)
+
 As i dive more into offensive security I realised that I am going to need a Red Team lab that simulates a real-world enterprise environment. I'm excited to start building my ultimate cybersecurity lab environment, my playground for all things offensive and defensive security.
 
 I designed this to be like a realistic network. This lab will help me practice and hone my skills in the following fields:
