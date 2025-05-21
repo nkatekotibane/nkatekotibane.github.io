@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Offensive Security Lab
@@ -39,7 +38,7 @@ I eventually want to build my own malware lab toolkit, develop PoCs that accompa
 
 ## Lab Architecture Overview
 
-![[lab.jpg]]
+![lab.jpg](../../assets/images/lab.jpg)
 
 
 ### Network Architecture Overview
