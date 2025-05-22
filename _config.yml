@@ -23,5 +23,5 @@ defaults:
     values:
       layout: "post"
       permalink: /posts/:categories/:title/
-      show_categories: true
+      #show_categories: true
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README,.md"]
